@@ -1,4 +1,4 @@
-county,state,covid_hospital_admissions_per_100k,covid_cases_per_100k
+county,state,hospital_100k,cases_100k
 Lincoln,WI,13.4,177.58
 Manitowoc,WI,9.8,169.66
 Marathon,WI,13.4,209.3
